@@ -11,7 +11,7 @@ $output .= '<meta name="Author" content="George" />' . $eol;
 $output .= '<title>Circuit Statistics</title>' . $eol;
 $output .= '</head>' . $eol;
 $output .= '<body>' . $eol;
-$output .= '<h2>Hello World</h2>' . $eol;
+$output .= '<h2>Circuit Statistics</h2>' . $eol;
 $output .= '<p>This is a draft of the index webpage</p>' . $eol;
 $output .= '</body>' . $eol;
 $output .= '</html>' . $eol;
